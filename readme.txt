@@ -1,4 +1,4 @@
-Welcome to my Demo Sudents trucker:
+Welcome to my Demo SudentsTrucker:
 
 -SELECT statment
 -ALTER statment
